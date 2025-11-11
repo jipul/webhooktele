@@ -1,0 +1,13 @@
+{
+  "name": "webhooktele",
+  "version": "1.0.0",
+  "description": "Webhook Telegram to Website via Vercel",
+  "main": "api/webhook.js",
+  "scripts": {
+    "start": "node api/webhook.js"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  },
+  "type": "module"
+}
